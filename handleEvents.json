@@ -1,0 +1,103 @@
+{
+  "sections": [
+    {
+      "title": "Open-Blocker",
+      "items": [
+        {
+          "id": "OBdonations",
+          "name": "Донаты",
+          "type": "button",
+          "bool": true,
+          "defaultParameter": true
+        },
+        {
+          "id": "OBconcerts",
+          "name": "Концерты",
+          "type": "button",
+          "bool": true,
+          "defaultParameter": true
+        },
+        {
+          "id": "OBuserprofile",
+          "name": "Профиль",
+          "type": "button",
+          "bool": true,
+          "defaultParameter": true
+        },
+        {
+          "id": "OBtrailers",
+          "name": "Трейлеры",
+          "type": "button",
+          "bool": true,
+          "defaultParameter": true
+        },
+        {
+          "id": "OBbetabutton",
+          "name": "Кнопка версии",
+          "type": "button",
+          "bool": true,
+          "defaultParameter": true
+        },
+        {
+          "id": "OBvibeanimation",
+          "name": "Анимация моей волны",
+          "type": "button",
+          "bool": true,
+          "defaultParameter": true
+        },
+        {
+          "id": "OBrelevantnow",
+          "name": "Актуально сейчас",
+          "type": "button",
+          "bool": true,
+          "defaultParameter": true
+        },
+        {
+          "id": "OBartistrecommends",
+          "name": "Артист рекомендует",
+          "type": "button",
+          "bool": true,
+          "defaultParameter": true
+        },
+        {
+          "id": "OBbarbelow",
+          "name": "Рекламные беннеры",
+          "type": "button",
+          "bool": true,
+          "defaultParameter": true
+        }
+      ]
+    },
+    {
+      "title": "Особое",
+      "items": [
+        {
+          "id": "setInterval",
+          "name": "Скорость обновления настроек темы (в миллисекундах)",
+          "description": "Выставляет скорость обновления настроек темы. (Задержка нажатия на кнопку в PulseSync и срабатывание в Яндекс Музыке)",
+          "type": "text",
+          "buttons": [
+            {
+              "name": "text",
+              "text": "1000",
+              "defaultParameter": "1000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Developer",
+      "items": [
+        {
+          "id": "devAutoPlayOnStart",
+          "name": "Автоплей",
+          "description": "Запускает трек сразу после запуска Яндекс Музыки и при нажатии ctrl + r.",
+          "type": "button",
+          "bool": false,
+          "defaultParameter": false
+        }
+      ]
+    }
+  ]
+}
