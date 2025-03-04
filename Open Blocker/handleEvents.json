@@ -53,6 +53,76 @@
           "defaultParameter": true
         },
         {
+          "id": "OBinstyle",
+          "name": "Стиль",
+          "type": "button",
+          "bool": true,
+          "defaultParameter": true
+        },
+        {
+          "id": "OBlikesandhistory",
+          "name": "Лайки и история",
+          "type": "button",
+          "bool": true,
+          "defaultParameter": true
+        },
+        {
+          "id": "OBneuromusic",
+          "name": "Нейромузыка",
+          "type": "button",
+          "bool": true,
+          "defaultParameter": true
+        },
+        {
+          "id": "OBnewreleases",
+          "name": "Новые релизы",
+          "type": "button",
+          "bool": true,
+          "defaultParameter": true
+        },
+        {
+          "id": "OBpersonalartists",
+          "name": "Личные артисты",
+          "type": "button",
+          "bool": true,
+          "defaultParameter": true
+        },
+        {
+          "id": "OBpersonalplaylists",
+          "name": "Личные плейлисты",
+          "type": "button",
+          "bool": true,
+          "defaultParameter": true
+        },
+        {
+          "id": "OBrecommendedplaylists",
+          "name": "Рекомендованные плейлисты",
+          "type": "button",
+          "bool": true,
+          "defaultParameter": true
+        },
+        {
+          "id": "OBsmartopenplaylist",
+          "name": "Умный открытый плейлист",
+          "type": "button",
+          "bool": true,
+          "defaultParameter": true
+        },
+        {
+          "id": "OBsmartopenplaylist",
+          "name": "Умный открытый плейлист (повтор)",
+          "type": "button",
+          "bool": true,
+          "defaultParameter": true
+        },
+        {
+          "id": "OBwaves",
+          "name": "Волны",
+          "type": "button",
+          "bool": true,
+          "defaultParameter": true
+        },
+        {
           "id": "OBartistrecommends",
           "name": "Артист рекомендует",
           "type": "button",

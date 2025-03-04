@@ -35,6 +35,16 @@ async function setSettings(newSettings) {
         "betabutton",
         "vibeanimation",
         "relevantnow",
+        "instyle",
+        "likesandhistory",
+        "neuromusic",
+        "newreleases",
+        "personalartists",
+        "personalplaylists",
+        "recommendedplaylists",
+        "smartopenplaylist",
+        "smartopenplaylist",
+        "waves",
         "artistrecommends",
         "barbelow"
     ];
