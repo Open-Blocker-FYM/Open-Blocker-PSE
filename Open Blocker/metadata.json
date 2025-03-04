@@ -2,9 +2,10 @@
     "name": "Open Blocker",
     "image": "image.png",
     "banner": "banner.png",
-    "author": "Open Blocker FYM",
+    "author": ["Open Blocker FYM"],
+    "type": "script",
     "description": "Блокирует элементы в Яндекс Музыке.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "css": "style.css",
     "script": "script.js",
     "tags": [
