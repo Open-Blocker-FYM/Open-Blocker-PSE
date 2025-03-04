@@ -43,7 +43,6 @@ async function setSettings(newSettings) {
         "personalplaylists",
         "recommendedplaylists",
         "smartopenplaylist",
-        "smartopenplaylist",
         "waves",
         "artistrecommends",
         "barbelow"

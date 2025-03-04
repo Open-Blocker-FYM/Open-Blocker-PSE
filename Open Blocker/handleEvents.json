@@ -54,14 +54,14 @@
         },
         {
           "id": "OBinstyle",
-          "name": "Стиль",
+          "name": "В стиле",
           "type": "button",
           "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBlikesandhistory",
-          "name": "Лайки и история",
+          "name": "Любимое и история",
           "type": "button",
           "bool": true,
           "defaultParameter": true
@@ -89,35 +89,28 @@
         },
         {
           "id": "OBpersonalplaylists",
-          "name": "Личные плейлисты",
+          "name": "Настроили для вас",
           "type": "button",
           "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBrecommendedplaylists",
-          "name": "Рекомендованные плейлисты",
+          "name": "Исследуйте жанр",
           "type": "button",
           "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBsmartopenplaylist",
-          "name": "Умный открытый плейлист",
-          "type": "button",
-          "bool": true,
-          "defaultParameter": true
-        },
-        {
-          "id": "OBsmartopenplaylist",
-          "name": "Умный открытый плейлист (повтор)",
+          "name": "Премьера и т.д.",
           "type": "button",
           "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBwaves",
-          "name": "Волны",
+          "name": "Больше открытий",
           "type": "button",
           "bool": true,
           "defaultParameter": true
