@@ -7,214 +7,214 @@
           "id": "OBdonations",
           "name": "Донаты",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBconcerts",
           "name": "Концерты",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBuserprofile",
           "name": "Профиль",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBtrailers",
           "name": "Трейлеры",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBbetabutton",
           "name": "Кнопка версии",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBvibeanimation",
           "name": "Анимация моей волны",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBglobaltabs",
           "name": "Табы",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBrelevantnow",
           "name": "Актуально сейчас",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBinstyle",
           "name": "В стиле",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBlikesandhistory",
           "name": "Любимое и история",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBneuromusic",
           "name": "Нейромузыка",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBnewreleases",
           "name": "Новые релизы",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBpersonalartists",
           "name": "Личные артисты",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBpersonalplaylists",
           "name": "Настроили для вас",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBrecommendedplaylists",
           "name": "Исследуйте жанр",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBsmartopenplaylist",
           "name": "Премьера и т.д.",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBwaves",
           "name": "Больше открытий",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBcharttracks",
           "name": "Чарт",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBartistrecommends",
           "name": "Артист рекомендует",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBbarbelow",
           "name": "Рекламные беннеры",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBpodcasts",
           "name": "Подкасты",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBchartalbums",
           "name": "Чарт аудиокниг",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBcontinuelisten",
           "name": "Продолжить слушать",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBeditorialartists",
           "name": "Зажигались от искры",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBeditorialnewreleases",
           "name": "Альбом месяца",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBmixedblock",
           "name": "Подборки",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBmixesgrid",
           "name": "Книги по жанрам",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBnewplaylists",
           "name": "Больше новой музыки",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBnonmusiceditorialcompilation",
           "name": "Компиляции",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         },
         {
           "id": "OBopenplaylist",
           "name": "Суперлон x Трендоскоп (Кто им такие названия придумывает?)",
           "type": "button",
-          "bool": false,
+          "bool": true,
           "defaultParameter": true
         }
       ]
-    },    
+    },
     {
       "title": "Особое",
       "items": [
@@ -226,7 +226,7 @@
           "buttons": [
             {
               "name": "text",
-              "text": "10",
+              "text": "1000",
               "defaultParameter": "1000"
             }
           ]
