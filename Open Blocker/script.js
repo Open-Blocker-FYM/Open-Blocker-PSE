@@ -28,25 +28,13 @@ let updateInterval;
 async function setSettings(newSettings) {
     // Open Blocker
     const modules = [
-        "donations",
-        "concerts",
-        "userprofile",
-        "trailers",
-        "betabutton",
-        "vibeanimation",
-        "relevantnow",
-        "instyle",
-        "likesandhistory",
-        "neuromusic",
-        "newreleases",
-        "personalartists",
-        "personalplaylists",
-        "recommendedplaylists",
-        "smartopenplaylist",
-        "waves",
-        "artistrecommends",
-        "barbelow"
-    ];
+        'donations', 'concerts', 'userprofile', 'trailers', 'betabutton',
+        'vibeanimation', 'globaltabs', 'relevantnow', 'instyle', 'likesandhistory', 'neuromusic',
+        'newreleases', 'personalartists', 'personalplaylists', 'recommendedplaylists', 'smartopenplaylist',
+        'waves', 'charttracks', 'artistrecommends', 'barbelow', 'podcasts', 'chartalbums',
+        'continuelisten', 'editorialartists', 'editorialnewreleases', 'mixedblock',
+        'mixesgrid', 'newplaylists', 'nonmusiceditorialcompilation', 'openplaylist'
+    ];    
 
     modules.forEach(module => {
         const settingKey = `OB${module.charAt(0) + module.slice(1)}`;
